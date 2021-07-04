@@ -7,4 +7,4 @@
 | [Определение перспективного тарифа для телеком компании](statistical_data_analysis) | Определить, какой из двух тарифов наиболее выгодный, и предложить тарифные улучшения | *pandas, matplotlib, numpy, scipy* |
 | [Анализ поведения пользователей мобильного приложения](analysis_of_the_behavior_of_users_of_the_mobile_app) | Выяснить, как ведут себя пользователи мобильного приложения после смены шрифтов | *pandas, numpy, matplotlob, plotly, scipy, math* |
 | [Анализ маркетинговой стратегии](analysis_of_marketing_strategy) | Выявить невыгодные источники трафика | *pandas, numpy, matplotlob, seaborn* | 
-| [А/В-тест](AB-test) | Приоретизировать гипотезы и провести А/В тест | * pandas, numpy, datetime, matplotlib, scipy.stats * |
+| [А/В-тест](AB-test) | Приоретизировать гипотезы и провести А/В тест | *pandas, numpy, datetime, matplotlib, scipy.stats* |
