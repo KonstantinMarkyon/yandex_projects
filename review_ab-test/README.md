@@ -2,6 +2,8 @@
 
 ## Задача
 
+GitHub не отображает некорые графики Plotly, поэтому в файле ipynb они не видны. Полная версия проекта по сслыке: https://nbviewer.org/github/KonstantinMarkyon/yandex_projects/blob/main/review_ab-test/review_ab-test.ipynb
+
 Провести оценку результатов A/B-теста:
 - Оценить корректность проведения теста;
 - Проанализировать результаты теста.
